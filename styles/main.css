@@ -7,6 +7,7 @@
     margin: 0;
     padding: 0;
 }
+
 html {
     font-family: 'Roboto', sans-serif;
 }
@@ -25,11 +26,10 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--title-color);
 }
 
-
 #page-home {
     height: 100vh;
     background: url('../assets/home-background.svg') no-repeat;
-    background-position: 35vw bottom;
+    background-position: 38vw bottom;
 }
 
 #page-home .content {
@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
         left: 50%;
         transform: translateX(-50%);
     }
-
+    
     #page-home main {
         align-items: center;
     }
