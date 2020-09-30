@@ -54,6 +54,7 @@ form legend h2 {
 }
 
 form .field {
+    flex: 1;
     display: flex;
     flex-direction: column;
     margin-bottom: 24px;
@@ -61,4 +62,46 @@ form .field {
 
 form .field-group {
     display: flex;
+}
+
+form input, form select {
+    background-color: #f0f0f5;
+    border: 0;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    /* outline: none; retira a seleção no input ao clicar*/
+}
+
+form select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+form label {
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+form .field-group .field + .field {
+    margin-left: 24px;
+}
+
+form button {
+    width: 260px;
+    height: 56px;
+    background-color: var(--primary-color);
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: 0;
+    margin-top: 40px;
+    /* original 400ms */
+    transition: background-color 900ms;
+}
+
+form button:hover {
+    background-color: #2fb86e;
 }
