@@ -54,7 +54,7 @@
                     <!-- .field*2 dica:criar as duas div com class field * = x2 -->
                     <div class="field">
                         <label for="state">Estado</label>
-                        <select name="uf" id="">
+                        <select name="uf">
                             <option value="">Selecione o Estado</option>
                         </select>
                     </div>
@@ -62,10 +62,11 @@
                     <div class="field">
                         <!-- label+input cria label e input -->
                         <label for="city">Cidade</label>
-                        <select name="city" id="" disabled>
+                        <select name="city" disabled>
                             <option value="">Selecione a Cidade</option>
                         </select>
                     </div>
+                    <input type="hidden" name="state">
                 </div>
             </fieldset>
             
@@ -77,5 +78,6 @@
             
         </form>
     </div>
+    <script src="/scripts/create-point.js"></script>
 </body>
 </html>
