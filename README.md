@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kennedyr3/Ecoleta?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Kennedyr3/Ecoleta?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/kennedyr3/Ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Kennedyr3/Ecoleta">
 
   <a href="https://github.com/kennedyr3/ecoleta/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kennedyr3/ecoleta">
