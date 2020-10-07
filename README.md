@@ -9,7 +9,7 @@
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/kennedyr3/README-ecoleta/stargazers">
+   <a href="https://github.com/kennedyr3/ecoleta/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/kennedyr3/ecoleta?style=social">
   </a>
 
@@ -123,7 +123,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:kennedyr3/ecoleta.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd README-ecoleta
+$ cd ecoleta
 
 # Vá para a pasta server
 $ cd server
@@ -150,7 +150,7 @@ $ npm run dev:server
 $ git clone git@github.com:kennedyr3/ecoleta.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd README-ecoleta
+$ cd ecoleta
 
 # Vá para a pasta da aplicação Front End
 $ cd web
@@ -180,7 +180,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Leaflet](https://react-leaflet.js.org/)**
 -   **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
 
-> Veja o arquivo  [package.json](https://github.com/kennedyr3/README-ecoleta/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/kennedyr3/ecoleta/blob/master/web/package.json)
 
 #### [](https://github.com/kennedyr3/Ecoleta#server-nodejs--typescript)**Server**  ([NodeJS](https://nodejs.org/en/)  +  [TypeScript](https://www.typescriptlang.org/))
 
