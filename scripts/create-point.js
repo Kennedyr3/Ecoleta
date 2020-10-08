@@ -31,7 +31,7 @@ function getCities(event) {
     
     citySelect.innerHTML = "<option value>Selecione a Cidade</option>"
     citySelect.disabled = true
-
+    
     fetch(url)
     .then ( res => res.json() )
     .then ( cities =>  {
@@ -62,16 +62,16 @@ function handleSelectedItem(event) {
     //adicionar ou remover um classe com js (toggle)
     itemLi.classList.toggle("selected")
     const itemId = itemLi.dataset.id
-
+    
     // const itemId = itemLi.dataset.id
     // verifica se existem itens selecionados,
     // se sim pega os itens selecionados
-
+    
     //const alreadySelected = selectedItems.findIndex( item => 
-        // const itemFound = item == itemId
-        //item == itemid
+    // const itemFound = item == itemId
+    //item == itemid
     //)função reduzida
-
+    
     const alreadySelected = selectedItems.findIndex( item => {
         const itemFound = item == itemId // isso será true ou false
         return itemFound
