@@ -72,7 +72,7 @@ O layout da aplicação está disponível no Figma:
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-
+<!--
 ### Mobile
 
 <p align="center">
@@ -80,7 +80,7 @@ O layout da aplicação está disponível no Figma:
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/detalhes-mobile.svg" width="200px">
 </p>
-
+-->
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -186,7 +186,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Joi](https://github.com/hapijs/joi)**
 
 > Veja o arquivo  [package.json](https://github.com/kennedyr3/ecoleta/blob/master/server/package.json)
-
+<!--
 #### [](https://github.com/kennedyr3/Ecoleta#mobile-react-native--typescript)**Mobile**  ([React Native](http://www.reactnative.com/)  +  [TypeScript](https://www.typescriptlang.org/))
 
 -   **[Expo](https://expo.io/)**
@@ -200,7 +200,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[Expo Mail Composer](https://docs.expo.io/versions/latest/sdk/mail-composer/)**
 
 > Veja o arquivo  [package.json](https://github.com/kennedyr3/ecoleta/blob/master/mobile/package.json)
-
+-->
 #### [](https://github.com/kennedyr3/Ecoleta#utilit%C3%A1rios)**Utilitários**
 
 -   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)**
